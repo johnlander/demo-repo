@@ -13,3 +13,8 @@ Git Tutorial
 
 ## Local Development
 1. Open index.html in your browser.
+
+
+## Add styling
+
+1. add file and name it style.css
